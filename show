@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat $filename | column -t | less -S
