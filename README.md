@@ -1,2 +1,2 @@
 # sh
-General unix tools/generalized helpful bits of code
+Unix tools/generalized helpful bits of code
